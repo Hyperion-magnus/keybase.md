@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am hyperion-magnus on github.
+  * I am alphahyperion (https://keybase.io/alphahyperion) on keybase.
+  * I have a public key ASCBvv8R1UdVJm5RtLgwnFpVwl9PKOevO2Yg-Vivc_gHrwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012081beff11d54755266e51b4b8309c5a55c25f4f28e7af3b6620f958af73f807af0a",
+      "host": "keybase.io",
+      "kid": "012081beff11d54755266e51b4b8309c5a55c25f4f28e7af3b6620f958af73f807af0a",
+      "uid": "38ef683f12d17baec76aa1a958cd3f19",
+      "username": "alphahyperion"
+    },
+    "merkle_root": {
+      "ctime": 1682443283,
+      "hash": "97d91f4b0cdfe19ead6d3b6cd11db0fbdf0f9f1b974c2ec01ee77498cc0775de0569c8939e91c849b30666a6ff8d37f44c73d6a44d89dc566b121fd4875aa2b0",
+      "hash_meta": "36267ba89da44099cd0052cf9bd589f7f8aaff2333d8611d70ed9026feb986ac",
+      "seqno": 24377453
+    },
+    "service": {
+      "entropy": "rGSKNFOSlgurqlnn8LYw+kDa",
+      "name": "github",
+      "username": "hyperion-magnus"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1682443312,
+  "expire_in": 504576000,
+  "prev": "00a26660310e289eca70caadecec75ad1f3bff94afb71332fe82b3735e9326b5",
+  "seqno": 15,
+  "tag": "signature"
+}
+```
+
+with the key [ASCBvv8R1UdVJm5RtLgwnFpVwl9PKOevO2Yg-Vivc_gHrwo](https://keybase.io/alphahyperion), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggb7/EdVHVSZuUbS4MJxaVcJfTyjnrztmIPlYr3P4B68Kp3BheWxvYWTESpcCD8QgAKJmYDEOKJ7KcMqt7Ox1rR87/5SvtxMy/oKzc16TJrXEIMYdinbtTjlGciurKW89F0QqBu/rOmGqOfiG/AVvSr4UAgHCo3NpZ8RAhrhh/OR3hQN87D+KwA11REY67vt4YYQx+ZQ3Cvu16YpsU+oOJ8ZrweKNtLqszocr86d4BiV2viBAGhbMi9RoCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILIHpKYEXefXwK1/U+FcjCHmiZlQFaJ26AgMtkjmbQZAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/alphahyperion
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id alphahyperion
+```
